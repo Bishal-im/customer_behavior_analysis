@@ -5,6 +5,8 @@ This project focuses on understanding customer purchasing patterns, category per
 I started by cleaning and transforming raw data in Python, then moved the refined dataset into MySQL for deeper analysis.  
 Finally, I visualized key insights using Power BI to create an interactive dashboard.
 
+
+<img width="1275" height="695" alt="Image" src="https://github.com/user-attachments/assets/71438404-f695-414c-8a26-c6bd8559f2b6" />
 ---
 
 ## 🚀 Project Workflow
